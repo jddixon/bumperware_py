@@ -7,29 +7,29 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END RSA PUBLIC KEY-----
-bumperware_py v0.0.2
-2017-04-03 18:59:33
+bumperware_py v0.0.3
+2017-04-19 19:04:44
 # BEGIN CONTENT #
 bumperware_py
  .dvcz
+  builds d250a0901a482747fd2c9ebc8a7aa732daca922d
   copyright 5be039ec22b90efe60eeb38d206670e54da64d72
+  lastBuildList 3f479fd5c91b8336bd619a168efa5f7dffb71997
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg 14e5d8de55a4e257571025157655a0a027abf4cd
   projCfg.local d5d2b8826d32d8cfdedbe7f95159d62b922ae347
-  version c8fb90448f5a17e51543eb5c0cb6bf973da6be9e
- .gitignore 763535ce9c2c0d1e2b7aa6999247cb48e50fd015
+  version b92fc9dffa50af5d03c5a7da2aa0119317d5fefb
+ .gitignore 680b1aca0d2418b3b46a7e426df8bd31bd00e64f
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES 66994ec7b866b7166f3031f2258915e9e131f2da
+ CHANGES b5b2766cbddc1786d9eb735c462ec10aa4ae5a01
  LICENSE-MIT.md 929652e5fc4b6bb39bfb473732a42b8860d05b82
  README.md e375bf0917cd3453bb398ac38ecb32b7d2f51c73
  TODO 5e187ed046a9be52dfc858d8c8bcc83320080504
  bkp2U a0b773549e9a2841e0249168cb2f1d37844cb591
  bumperware
-  __init__.py ef3002a58b0cc85862080a7c7113c98ae83e39ef
+  __init__.py 3d745ac6a63d16cbc1428de8720d4ce5948fbf74
  checkCoverage 230c359b7366b47f54e80b9414ff2ef61a77ad59
  countem 46deea827ef56f2439f41d832cbd1cb764e2438d
- dist
-  bumperware_py-0.0.2.tar.gz e0439a7b04e97a0a689dc2d395274ed33f4ac315
  doPyLint e0e54b77cb5f3f0052fe395e5c6fb96be5ac6fec
  ghpDoc
   index.md 49cebb35ba6729bf4acedd4d8c10962c4236d4c5
@@ -40,4 +40,4 @@ bumperware_py
  test.all 2c96bb398a718c46047912c03bdd99e9d2aa804a
 # END CONTENT #
 
-UKdnwW2/ZZjun0qm1jHq9l3Q+0n4naPF8xwAxL4/dm+5nPN19oljvXZiv9c9I6uu/rYBFApIFkqU1Gc7C4ZkhvXHEjIy9bwY1p/98NUnOor5JbKvOKgEmoeExfxRsYHbcWfqM2sd88ExKoCKKR24nMtsVsdepqOG/LxDSNPbAViqwhix9v65OwQsdigZQfPgOWWEUlScCrgDLjuVJw402/EUAY8Kc+zED7rvhEQoYbz49OosJ2lAtKWcJk22ftCMqmsFXKV+G42WwRJ4FQGyTSRsz5Jl91AJ/d+78g38KXukqy7/mzrUQE1LMQEcyvlB3d5Zey/n3V9zf79N/IiJWg==
+AQJ5gybX0NIYvUqYMcwmhQBW1CmsJdhxFJF6BX64/C4/iDMvg4SDc3OY1yIyfcg/brCXOLLzojyS60LsfIcoHMrG1AP3NaITRpTYkZ27DmahYbsGrkn7y0oq83jih12lWI3kMtvv0RkaQduQur0xZrBfxoKm6URzi8xlXF2xHkv8GtM5aGg6hLRJBuyMEv3+JWKCXsMFk6fFfC6rFbYef9f5U4vVzm3Wub7eB7ezPQxAEhw+RmPBlJ3cXlyxKjG9HqsXAwIzeRmTb5X8xl9PaqpFeVXlIL2ELZeDKV1+3V5AKN3qdkBoRjPNam+xayqwRKCqAWazexRozR3q4Jtwrw==
