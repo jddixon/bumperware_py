@@ -1,10 +1,18 @@
 py/bumperware_py/CHANGES
 
 
+v0.0.4
+    2017-07-12
+        * rewrite setup.py, edit MANIFEST.in, other config files    * SLOC  357
+v0.0.3
+    2017-06-08
+        * restructure for pytest                                    * SLOC  324
 v0.0.2
     2017-04-03
         * add configuration files
 v0.0.1
     2017-04-03
         initial commit
+
+
 

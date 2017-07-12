@@ -2,11 +2,13 @@
 project:bumperware_py
 package:bumperware
 mainlang:py
-version:0.0.2
-versionDate:2017-04-03
+version:0.0.3
+versionDate:2017-06-08
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
+dir:std:src
+dir:std:tests
 dir:std:.dvcz
 dir:pkg:bumperware
 dir:clr:build
