@@ -7,40 +7,51 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-bumperware_py v0.0.4
-2017-07-12 20:24:11
+bumperware_py v0.0.5
+2017-08-30 18:37:50
 # BEGIN CONTENT #
 bumperware_py
+ .cache
+  v
+   cache
+    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 4bb0a88d111c6cd7de61c835d718f774c5294a47
+  builds 6f078e058c918b0fe715c69fd9a71ef818ea6560
   copyright 5be039ec22b90efe60eeb38d206670e54da64d72
-  lastBuildList e8193ae411b01ac84dfdfa020f80f4225c5fb4df
+  lastBuildList 825a9c272d088c40fed80d3596f944c63f1f6c1a
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
-  projCfg c3cf9f59b95e24a7b47d57a40519ebbd90786d01
+  projCfg edc12b041340928cfb86b78444a4a0e7f5981c89
   projCfg.local d5d2b8826d32d8cfdedbe7f95159d62b922ae347
-  version 3977eac98a54909d01f1c345df8f97c6b93121eb
- .gitignore 680b1aca0d2418b3b46a7e426df8bd31bd00e64f
+  version 1894ec7095630e3b52b83cc67219ec79f01da8af
+ .gitignore 7de6b56ffe9e21d458fd606f462f7854743e09bb
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES cc02973d39698f5baaee2abd45e98c51e39cec05
+ CHANGES e337e040f6ed03863a76c721ccdbaeba61809397
  LICENSE-MIT.md 929652e5fc4b6bb39bfb473732a42b8860d05b82
- MANIFEST.in e21823fc3f88da4455792148de0afafb88c08ec5
+ MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md e375bf0917cd3453bb398ac38ecb32b7d2f51c73
  TODO 5e187ed046a9be52dfc858d8c8bcc83320080504
  bkp2U a0b773549e9a2841e0249168cb2f1d37844cb591
  checkCoverage 4c77a59d3920202c5c302280ce8e2ed5c64747af
- countem 2471ead24fc8180599146994b80c42aad82f0b69
+ countem 39e4ce8df1380c5ce19d003af8dd0f60c9358cca
  doPyLint 31321ad99eb3b9ac0928a68c29a8b5b88c9472fb
  ghpDoc
   index.md 49cebb35ba6729bf4acedd4d8c10962c4236d4c5
  installit 42c4ff261881b4edacacc31324169c617efa9f83
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 6d0fbcb2fb225e0fecdee53601f2daf6324d908a
+ requirements.txt 5dfca4f558df3fbbdc17ada0b2b0a1ee2f960ae7
+ setup.py d213fdbf6a4f45de20558a5c55f1cc7136b6f2f3
  src
   bumperware
-   __init__.py 310a25cd7adac83b4a80a8d61572aff4331b990f
+   __init__.py a30d5995d6edbf657ec8dc4e388ad57d702d87a4
  styleit 97e1fadb299c4c97811eb8c90a454b8dba44949a
  test.all cc3733fd4b31915254f98618c60fd2005be7f4f8
+ test_requirements.txt 0cde0b965d95de9881d4d78a8d520ff902540b05
  tests
+ tox.ini 0f754d9c88480001eab3a0b54bada559b363131d
 # END CONTENT #
 
+<<<<<<< HEAD
 LoNc/xDppkNEksDCaDiU6+mrS745dst3gDdz6rC94r0lU4ZRDA38VfeQJ9nx9kUj9ZBWQOR2SseNvyHPZdM+PeyGCFzbpvq6Odv1dT2QY01P2iIwGYgoS5GvS/65oqOdtxZ58kWivXsLyhD3sKcY6PioVPaEvmIWbI6QaY5cwLId/rYoXlmdgBBrpMFS8Lgj4oTJZdQSMLSPoGyS/PcVkHMmLI4DTmv2tI2VarYcN7jXdDEtnXD4LwkEILnrbW+uEMctQg39LO7ltGkeSIpIL3wASFfEKsFPZLhbPV7gK7SBhDRrrwccETWV74ZwT++rC4F/tbU81NaVPXdr4Vt7SQ==
+=======
+IX+ED1GKJMzFa+UUVinVANKMfXOvvAl+v/lCjgj7TW/b0cjwA2288c2jnhEN33b2Y0Z+gA8lKN1+T7fQmTgoRg48YPr5nSHkiGGTF9JDMqXgpSWDBapwP7XfAmu8lZJxsKHDjFDoG7R2omqRZZJtpTCXWcXhhISLx0aSdyJ7rEaaT/qykv9OaxgfdbmLzKSKimDc7OD0h8OTnbjPTiTUubcDQe0szPft498NSO0XdnKOBR/b/iERFDTXUa9qEWpDgbfITk8UN+hH62S9xdPJYOlsUU3k3IG8YA/spZIToUsNZdJYNhpvZ0XUW/vUyhKriqWclpX2w71vXLBaBjgcbw==
+>>>>>>> devel
