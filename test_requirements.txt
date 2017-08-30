@@ -1,0 +1,2 @@
+# bumperware_py/test_requirements.txt
+
