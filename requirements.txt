@@ -1,2 +1,3 @@
 # bumperware_py/requirements.txt
+setuptools
 

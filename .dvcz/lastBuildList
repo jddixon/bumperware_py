@@ -7,25 +7,21 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-bumperware_py v0.0.5
-2017-08-30 18:37:50
+bumperware_py v0.0.6
+2017-09-14 20:41:59
 # BEGIN CONTENT #
 bumperware_py
- .cache
-  v
-   cache
-    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 6f078e058c918b0fe715c69fd9a71ef818ea6560
+  builds 0026b67bcb95eb6ec8041d1125a07ede68bde6bf
   copyright 5be039ec22b90efe60eeb38d206670e54da64d72
-  lastBuildList 825a9c272d088c40fed80d3596f944c63f1f6c1a
+  lastBuildList 95050ffb6b0b39670d110b6266c3b4813fb64950
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg edc12b041340928cfb86b78444a4a0e7f5981c89
   projCfg.local d5d2b8826d32d8cfdedbe7f95159d62b922ae347
-  version 1894ec7095630e3b52b83cc67219ec79f01da8af
+  version 398f857b83796cf716e8b29b89ff73a3e2986ec3
  .gitignore 7de6b56ffe9e21d458fd606f462f7854743e09bb
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES e337e040f6ed03863a76c721ccdbaeba61809397
+ CHANGES 2e6c053797bfc3b90be0ad66fb1231b83bfc3e81
  LICENSE-MIT.md 929652e5fc4b6bb39bfb473732a42b8860d05b82
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md e375bf0917cd3453bb398ac38ecb32b7d2f51c73
@@ -38,11 +34,11 @@ bumperware_py
   index.md 49cebb35ba6729bf4acedd4d8c10962c4236d4c5
  installit 42c4ff261881b4edacacc31324169c617efa9f83
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt 5dfca4f558df3fbbdc17ada0b2b0a1ee2f960ae7
+ requirements.txt 80ec44e6f0fc2ff17faf93f5cb92a1638257d712
  setup.py d213fdbf6a4f45de20558a5c55f1cc7136b6f2f3
  src
   bumperware
-   __init__.py a30d5995d6edbf657ec8dc4e388ad57d702d87a4
+   __init__.py 510fae92f9a10958e9d684a6cf679e3abf4a31b6
  styleit 97e1fadb299c4c97811eb8c90a454b8dba44949a
  test.all cc3733fd4b31915254f98618c60fd2005be7f4f8
  test_requirements.txt 0cde0b965d95de9881d4d78a8d520ff902540b05
@@ -50,8 +46,4 @@ bumperware_py
  tox.ini 0f754d9c88480001eab3a0b54bada559b363131d
 # END CONTENT #
 
-<<<<<<< HEAD
-LoNc/xDppkNEksDCaDiU6+mrS745dst3gDdz6rC94r0lU4ZRDA38VfeQJ9nx9kUj9ZBWQOR2SseNvyHPZdM+PeyGCFzbpvq6Odv1dT2QY01P2iIwGYgoS5GvS/65oqOdtxZ58kWivXsLyhD3sKcY6PioVPaEvmIWbI6QaY5cwLId/rYoXlmdgBBrpMFS8Lgj4oTJZdQSMLSPoGyS/PcVkHMmLI4DTmv2tI2VarYcN7jXdDEtnXD4LwkEILnrbW+uEMctQg39LO7ltGkeSIpIL3wASFfEKsFPZLhbPV7gK7SBhDRrrwccETWV74ZwT++rC4F/tbU81NaVPXdr4Vt7SQ==
-=======
-IX+ED1GKJMzFa+UUVinVANKMfXOvvAl+v/lCjgj7TW/b0cjwA2288c2jnhEN33b2Y0Z+gA8lKN1+T7fQmTgoRg48YPr5nSHkiGGTF9JDMqXgpSWDBapwP7XfAmu8lZJxsKHDjFDoG7R2omqRZZJtpTCXWcXhhISLx0aSdyJ7rEaaT/qykv9OaxgfdbmLzKSKimDc7OD0h8OTnbjPTiTUubcDQe0szPft498NSO0XdnKOBR/b/iERFDTXUa9qEWpDgbfITk8UN+hH62S9xdPJYOlsUU3k3IG8YA/spZIToUsNZdJYNhpvZ0XUW/vUyhKriqWclpX2w71vXLBaBjgcbw==
->>>>>>> devel
+PINlXln3a56Yp6qCTHg9/Wqg1t8Fi4b+AHC2oKau9N7zo+Pgm/YKG9PArOXwPVnuVnmjMv0DyRi3Mp/Q+zYYT8ykQ3nYQgYVGw3DP7CX26MgdcW7IJbpgbKBg32Kb/jysnYIG7OV+r/twBlNRgl7NMZXrEDls4YZjS0HwHNpf/aWURF4ZyouebjKXAVc3fWY2ptd9YUYYJQUljgOg7k2+6blZmPianW5qUtx4b0qQ93U//6+22fipFob6I75PhGar8vFduqJFInGQyO5303Ky3Oth2KxczlUjrQUV3HbKE9u39z6UcLLiKvSlgIxrq95lGngTPceZKd7Zt4lnwUQ/g==
