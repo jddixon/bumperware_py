@@ -12,7 +12,7 @@ if exists('README.md'):
         long_desc = file.read()
 
 setup(name='bumperware_py',
-      version='0.0.5',
+      version='0.0.7',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       long_description=long_desc,
