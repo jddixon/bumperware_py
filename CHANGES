@@ -1,6 +1,9 @@
 # py/bumperware_py/CHANGES
 
 
+v0.0.8
+    2017-12-14
+        * pylinting, correct config files                           SLOC  427 
 v0.0.7
     2017-10-01
         * add projConfig.toml                                       SLOC  427
@@ -22,9 +25,3 @@ v0.0.2
 v0.0.1
     2017-04-03
         initial commit
-
-
-
-
-
-
