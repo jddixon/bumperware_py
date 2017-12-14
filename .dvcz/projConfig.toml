@@ -1,0 +1,29 @@
+[meta]
+version = "0.1.0"
+
+[project]
+name = "bumperware_py"
+package = "bumperware"
+main_lang = "py"
+version = "0.0.8"
+version_date = "2017-12-14"
+author = "Jim Dixon"
+author_email = "jddixon@gmail.com"
+copyright = "2017"
+description = "BumperWare server"
+dev_status = "planning"
+license = "mit"
+relpath = "py/bumperware_py"
+state = "shared"
+url = "https://jddixon.github.io/bumperware_py"
+
+[python]
+test_dir = "tests"
+packages = [ "bumperware",]
+package_dir = [ "src",]
+py_modules = []
+scripts = []
+ext_modules = []
+distshare = [ "rnglib",]
+requirements = [ "setuptools",]
+test_requirements = []
