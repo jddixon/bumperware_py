@@ -12,7 +12,7 @@ if exists('README.md'):
         LONG_DESC = file.read()
 
 setup(name='bumperware_py',
-      version='0.0.8',
+      version='0.0.9',
       author='Jim Dixon',
       author_email='jddixon@gmail.com',
       long_description=LONG_DESC,
@@ -30,8 +30,6 @@ setup(name='bumperware_py',
           'License :: OSI Approved :: MIT License',
           'Natural Language :: English',
           'Programming Language :: Python 2.7',
-          'Programming Language :: Python 3.3',
-          'Programming Language :: Python 3.4',
           'Programming Language :: Python 3.5',
           'Programming Language :: Python 3.6',
           'Programming Language :: Python 3.7',
